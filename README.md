@@ -132,7 +132,7 @@ md5sum file.mp4
 - Extracts ZIP compressed files.
 
 ```
-unzip file.zip
+unzip file.xyz
 ```
 
 ---
